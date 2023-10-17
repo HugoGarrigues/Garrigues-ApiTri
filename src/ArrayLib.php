@@ -4,7 +4,7 @@ class ArrayLib
 {
     static function BubbleSort ($tab) {
         for ($i = 0; $i < count($tab); $i++) {
-            for($j = 1; $j< count($tab) - 1 ; $j++) {
+            for($j = 0; $j< count($tab) - 1 ; $j++) {
                 if ($tab[$j+1] < $tab[$j]) {
                     $t = $tab[$j + 1];
                     $tab[$j+1] = $tab[$j];
@@ -12,7 +12,7 @@ class ArrayLib
                 }
             }
         }
-        print_r($tab);
+        return $tab;
     }
 
     static function QuickSort($tab) { // ce tri est récursif
