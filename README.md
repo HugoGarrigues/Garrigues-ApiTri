@@ -18,8 +18,8 @@ git clone https://github.com/HugoGarrigues/Garrigues-ApiTri.git
 ```
 ## Utilisation
 
-Tri QuickSort : `http://localhost/Exercice-Api-Tri/public/index.php?tri=quickSort&tab=[9,8,74,8,7,45,98]` <br><br>
-Tri BubbleSort : `http://localhost/Exercice-Api-Tri/public/index.php?tri=bubbleSort&tab=[9,8,74,8,7,45,98]`
+Tri QuickSort : `http://localhost/GARRIGUES-ApiTri/public/index.php?tri=quickSort&tab=[9,8,74,8,7,45,98]` <br><br>
+Tri BubbleSort : `http://localhost/GARRIGUES-ApiTri/public/index.php?tri=bubbleSort&tab=[9,8,74,8,7,45,98]`
 
 ## Auteurs
 
