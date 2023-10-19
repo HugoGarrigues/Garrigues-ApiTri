@@ -17,12 +17,3 @@ if ($_SERVER['REQUEST_METHOD'] = 'GET') {
         echo json_encode($tabTrie)."\n";
     }
 }
-
-for ($i=0;$i<5;$i++) {
-    $n = rand(1, 9);
-$randomTab = [];
-    $randomTab[] = $n;
-}
-
-$randomTabJSON = json_encode($randomTab);
-
