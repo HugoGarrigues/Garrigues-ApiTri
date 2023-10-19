@@ -9,9 +9,9 @@ class Endpoint
 
         switch ($tri) {
             case 'bubbleSort':
-                return \ArrayLib::bubbleSort($tab);
+                return ArrayLib::bubbleSort($tab);
             case 'quickSort':
-                return \ArrayLib::quickSort($tab);
+                return ArrayLib::quickSort($tab);
             default:
                 return null;
         }
