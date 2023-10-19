@@ -14,7 +14,7 @@ tri populaires.
 ## Installation
 
 ```bash
-git clone https://github.com/HugoGarrigues/Exercice-Api-Tri.git
+git clone https://github.com/HugoGarrigues/Garrigues-ApiTri.git
 ```
 ## Utilisation
 
